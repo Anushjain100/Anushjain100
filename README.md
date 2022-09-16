@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnushJain
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java,Html,Css.
 - 💞️ I’m looking to collaborate on projects related to the above topics.
 - 📫 How to reach me - Anushhundred@gmail.com
